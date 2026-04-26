@@ -1,1 +1,1 @@
-# heartbeat-simulator-pcb
+# Heartbeat-simulator-pcb
